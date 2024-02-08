@@ -17,7 +17,7 @@ public class Team2 extends Team
     public void createTeamMembers()
     {
         members.add(new TeamMember("Samuel Cadiz"));
-        members.add(new TeamMember(""));
+        members.add(new TeamMember("Deni Velasquez"));
         members.add(new TeamMember(""));
         members.add(new TeamMember(""));
         members.add(new TeamMember(""));
