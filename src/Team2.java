@@ -20,7 +20,7 @@ public class Team2 extends Team
         members.add(new TeamMember(""));
         members.add(new TeamMember(""));
         members.add(new TeamMember(""));
-        members.add(new TeamMember(""));
+        members.add(new TeamMember("Fernando Peralta Castro"));
         // create a new member class for each team member
         // and add it to the team members list
     }
